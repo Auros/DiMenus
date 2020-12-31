@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "DiMenus",
+  "name": "DiMenus",
+  "author": "Auros",
+  "version": "1.0.0",
+  "description": "Customize your main menu in Beat Saber.",
+  "gameVersion": "1.13.0",
+  "dependsOn": {
+    "BSIPA": "^4.1.3"
+  }
+}
